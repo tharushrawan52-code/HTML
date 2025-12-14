@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #000000;
+        display: flex;
+    padding: 40px;
+}
+
+.card {
+    width: 500px;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 20px;
+
+.card-number {
+    font-size: 70px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+.shrawan{
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.know-more {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+}
+
+.know-more:hover {
+    text-decoration: underline;
+}
