@@ -1,0 +1,18 @@
+div{
+    font-size: large;
+    border: 10px solid rgb(248, 10, 10);
+   background-color: bisque;
+    color: rgb(0, 0, 0);
+    padding: 40px 40px;
+    margin: 0px 30px;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+
+}
+html{
+    background-color: aqua;
+}
+body{
+    border: 3px solid;
+}

@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+   /*border:2px solid rgb(250, 0, 0);*/ 
+   width:100vw;
+   height:17vh;
+   display:flex;
+   justify-content: space-between;
+   gap:20px;
+   align-items: center;
+}
+.logo{
+   /* border:2px solid purple;  */
+    width:100px;
+    height:100px;
+}
+.item{
+   /*border:1.5px solid blue; */
+    width:100px;
+    height:100px;
+}
+.menu-links{
+    display: flex;
+    /*border:2px solid rgb(2, 247, 2);*/
+}
+.button{
+   /*border:2px solid orange;*/
+   display: flex;
+   gap:20px;
+}
+button{
+    width:60px;
+    height:30px;
+    background-color:teal;
+    border:none;
+    border-radius: 10px;
+    cursor: pointer;
+    justify-content: center;
+    font-style: italic;
+}
+

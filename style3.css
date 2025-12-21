@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    border:5px solid rgb(72, 0, 255);
+    width:100vw;
+    height:100vh;
+    background-image:url(grok_1765696421239.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

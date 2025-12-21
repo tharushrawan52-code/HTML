@@ -1,0 +1,29 @@
+button{
+    background-color: aqua;
+    color: black;
+    border: none;
+
+}
+button:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    font-style: bold;
+}
+div p:first-child{
+    color: rgb(0, 128, 0);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+div p:last-child{
+    color: rgb(128, 0, 128);
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+}
